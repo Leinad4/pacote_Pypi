@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: smd
+Version: 0.0.6
+Summary: Primeiro pacote PyPi
+Home-page: UNKNOWN
+Author: Daniel
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# sma
+
+DescriÃ§Ã£o:
+O pacote smd tem uma estrutura:
+    Processo:
+        - SaÃ­da 
+## InstalaÃ§Ã£o
+
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o pacote sma
+
+'''bash
+pip install smd
+'''
+
+## Author
+Daniel 
+
+
